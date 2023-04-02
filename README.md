@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @klcwDias
-- 👀 I’m interested in Coding and UI designing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lachithchiran via any social media platform
+- 👀 I’m interested in Coding and UI designing(C,C#,C++,Java,Flutter,ReactNative,etc)
+- 🌱 I’m currently learning Computer Science and Software Engineering At NSBM Green University Sri Lanka.
+- 💞️ I’m looking to collaborate on my own Business.
+- 📫 You Can Reach me Via,
+-   Facebook:lachith chiran
+-   Instagram:lachith charan
+-   LinkedIn:
 
 <!---
 klcwdias/klcwdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
