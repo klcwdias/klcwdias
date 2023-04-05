@@ -5,7 +5,7 @@
 - 📫 You Can Reach me Via,
 -   Facebook:lachith chiran
 -   Instagram:lachith charan
--   LinkedIn:
+-   LinkedIn:https://www.linkedin.com/in/lachith-chiran-2b8278235/
 
 <!---
 klcwdias/klcwdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
